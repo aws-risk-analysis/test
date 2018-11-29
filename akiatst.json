@@ -1,8 +1,22 @@
-
 {
   "aws_accounts": [
   {
     "name": "catsandshepherd",
-    "aws_access_key_id": "AKIAIFLKOK7SWAKMOYAA",
+    "aws_access_key_id": "AKIAIFLKOK7SWAKMOEYB",
     "aws_secret_access_key": "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"
+  },
+  {
+    "name": "tradecorp",
+    "aws_access_key_id": "AKIAJDY6ZNDJL6ARHIWB",
+    "aws_secret_access_key": "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"
+  },
+  {
+    "name": "access",
+    "aws_access_key_id": "AKIAJKYEVFTIQT7OZ3UB",
+    "aws_secret_access_key": "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"
+  },
+  {
+    "name": "beelieve",
+    "aws_access_key_id": "AKIAITAVJMRVP5KWGY7B",
+    "aws_secret_access_key": "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"
   },
